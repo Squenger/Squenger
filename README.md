@@ -1,18 +1,18 @@
 <div align="center">
 
-<!-- Bannière moderne -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f172a,50:1e293b,100:334155&height=150&section=header&text=Aimine%20Meddeb&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=AI%20Research%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Robotics&descAlignY=65&descSize=16" width="100%" />
+<!-- Bannière moderne violette -->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:3b0764,50:6d28d9,100:8b5cf6&height=150&section=header&text=Aimine%20Meddeb&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=AI%20Research%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Robotics&descAlignY=65&descSize=16" width="100%" />
 
 <br />
 
 <!-- Liens principaux uniquement -->
 <p>
   <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" height="32" />
+    <img src="https://img.shields.io/badge/Portfolio-16A34A?style=for-the-badge&logo=vercel&logoColor=white" height="32" />
   </a>
   &nbsp;
   <a href="mailto:aimine28@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=white" height="32" />
+    <img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white" height="32" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/your-linkedin">
