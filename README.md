@@ -1,48 +1,49 @@
-# Aimine Meddeb
+<div align="center">
 
-MSc MVA student at **ENS Paris-Saclay** · Graduate of **Institut d'Optique Graduate School (IOGS)** & **Université Paris-Saclay (MSc ATSI)**
+<!-- Bannière animée (Capsule Render) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:06b6d4&height=140&section=header&text=Aimine%20Meddeb&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=3D%20Computer%20Vision%20%E2%80%A2%20Multimodal%20AI%20%E2%80%A2%20Robotics&descAlignY=62&descSize=16" width="100%" />
 
-I work at the intersection of **3D computer vision**, **machine learning**, **robotic manipulation**, **multimodal AI**, and **optical/physical systems**. My background combines mathematical modeling, 3D geometry/imaging, and practical implementation for real-world perception and control.
+<!-- Badges Liens & Parcours -->
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:aimine28@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/MSc%20MVA-ENS%20Paris--Saclay-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IOGS%20%7C%20ATSI-Paris--Saclay-0891B2?style=for-the-badge" />
+</p>
 
-[Portfolio](#) · [GitHub](https://github.com/Squenger) · [Email](mailto:aimine28@gmail.com)
-
----
-
-### Research & Selected Work
-
-* **Near Real-Time 3D Digital Twin for Additive Manufacturing (UQTR)** — Developed deep learning models (3D U-Net) for near real-time 3D volume reconstruction integrating Gocator topographical surface scans and micro-CT data for 3D printing digital twins.
-* **3D Point-Action Robotic Manipulation (PointACT / LIBERO)** — Replicated and extended a 3D point-action vision-language-action pipeline on the LIBERO manipulation benchmark (`93.6%` success rate on spatial tasks using Concerto 3D and Qwen2.5-VL).
-* **Egocentric VideoQA & Temporal Grounding (EgoBlind)** — Investigating methods to mitigate temporal blindness and sycophancy in egocentric Video Question Answering for blind and low-vision assistance using CLIP key-frame retrieval and Qwen2.5-VL.
-* **Industrial Quality Control & Visual Registration (VALEO)** — Designed an automated computer vision registration and centering pipeline using ORB and RANSAC for automotive emblem inspection (`< 0.5%` error rate).
-* **Quantum & Optical Systems (Aurea Technology)** — Worked on an entangled photon source for satellite quantum communications (ESA TeQuantS) and built an EDFA amplification stage (`10 dB` gain).
+</div>
 
 ---
 
-### Technical Areas
+### 🔬 Focus & Selected Work
 
-* **3D Vision & Geometry:** 3D reconstruction, surface/volumetric data, point clouds, Open3D, OpenCV, Blender (Geometry Nodes)
-* **Machine Learning & Multimodal AI:** PyTorch, vision-language models, representation learning, post-training & preference optimization
-* **Systems, Optics & Security:** Optical instrumentation, signal/image processing, post-quantum cryptography (PQC)
-* **Languages & Tools:** Python, C++, MATLAB, LaTeX, Git, Linux
+- 🧊 **3D Digital Twin & Volume Reconstruction** (`3D U-Net` · Gocator & micro-CT scans) — *UQTR*
+- 🤖 **3D Point-Action Robotic Manipulation** (`PointACT` · `Qwen2.5-VL` · `93.6%` on LIBERO)
+- 👁️ **Egocentric VideoQA & Temporal Grounding** (`CLIP` · `Qwen2.5-VL` · EgoBlind)
+- 🎯 **Industrial Visual Registration** (`ORB` + `RANSAC` · `< 0.5%` error) — *VALEO*
+- ⚛️ **Quantum & Optical Systems** (Entangled photon source · `10 dB` EDFA) — *Aurea Technology*
 
 ---
 
-### Background
+### 🛠️ Stack
 
-* **ENS Paris-Saclay** — MSc in Mathematics, Vision, and Learning (MVA)
-* **Université Paris-Saclay** — MSc in Control, Signal, and Image Processing (ATSI) · BSc in Mathematics
-* **Institut d'Optique Graduate School (IOGS)** — Engineering Degree (Optics, Image Processing, Quantum Physics)
-<!--
-**Squenger/Squenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open3D-00A8E8?style=flat-square" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Squenger&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Squenger&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</div>
