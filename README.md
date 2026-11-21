@@ -1,49 +1,106 @@
 <div align="center">
 
-<!-- Bannière animée (Capsule Render) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:06b6d4&height=140&section=header&text=Aimine%20Meddeb&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=3D%20Computer%20Vision%20%E2%80%A2%20Multimodal%20AI%20%E2%80%A2%20Robotics&descAlignY=62&descSize=16" width="100%" />
+<!-- Bannière moderne -->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f172a,50:1e293b,100:334155&height=150&section=header&text=Aimine%20Meddeb&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=AI%20Research%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Robotics&descAlignY=65&descSize=16" width="100%" />
 
-<!-- Badges Liens & Parcours -->
+<br />
+
+<!-- Liens principaux uniquement -->
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:aimine28@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/MSc%20MVA-ENS%20Paris--Saclay-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IOGS%20%7C%20ATSI-Paris--Saclay-0891B2?style=for-the-badge" />
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" height="32" />
+  </a>
+  &nbsp;
+  <a href="mailto:aimine28@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=white" height="32" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32" />
+  </a>
 </p>
 
 </div>
 
 ---
 
-### 🔬 Focus & Selected Work
+## About Me
 
-- 🧊 **3D Digital Twin & Volume Reconstruction** (`3D U-Net` · Gocator & micro-CT scans) — *UQTR*
-- 🤖 **3D Point-Action Robotic Manipulation** (`PointACT` · `Qwen2.5-VL` · `93.6%` on LIBERO)
-- 👁️ **Egocentric VideoQA & Temporal Grounding** (`CLIP` · `Qwen2.5-VL` · EgoBlind)
-- 🎯 **Industrial Visual Registration** (`ORB` + `RANSAC` · `< 0.5%` error) — *VALEO*
-- ⚛️ **Quantum & Optical Systems** (Entangled photon source · `10 dB` EDFA) — *Aurea Technology*
+I am an **MSc MVA** student at **ENS Paris-Saclay** and an engineering graduate from **Institut d'Optique (IOGS)** & **Université Paris-Saclay (MSc ATSI)**. My work sits at the intersection of deep learning, computer vision, and physical systems.
 
----
-
-### 🛠️ Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open3D-00A8E8?style=flat-square" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Activity
+<br />
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Squenger&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Squenger&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="./assets/logo-mva.png" height="65" alt="MVA Logo" />
+        <br /><br />
+        <strong>MSc MVA</strong><br />
+        <sub>ENS Paris-Saclay — Mathematics, Vision &amp; Learning</sub>
+      </td>
+      <td align="center" width="50%">
+        <img src="./assets/logo-upsaclay.png" height="65" alt="Université Paris-Saclay Logo" />
+        <br /><br />
+        <strong>IOGS &amp; MSc ATSI</strong><br />
+        <sub>Université Paris-Saclay — Optics, Signal &amp; Image Processing</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## Frameworks
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="52" alt="PyTorch" />
+        <br /><sub><b>PyTorch</b></sub>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="52" alt="OpenCV" />
+        <br /><sub><b>OpenCV</b></sub>
+      </td>
+      <td align="center" width="140">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Nvidia_logo.svg" height="44" alt="CUDA" />
+        <br /><sub><b>CUDA</b></sub>
+      </td>
+      <td align="center" width="140">
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="52" alt="Hugging Face" />
+        <br /><sub><b>Hugging Face</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## Research & Goals
+
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <h3>My Research Interests</h3>
+        <ul>
+          <li><b>Vision Transformers:</b> representation learning, geometric perception, and multimodal architectures.</li>
+          <li><b>Robotics &amp; VLA Models:</b> Vision-Language-Action policies bridging 3D perception and physical control.</li>
+          <li><b>Vision-Language Models:</b> grounded visual reasoning and temporal understanding.</li>
+        </ul>
+      </td>
+      <td valign="top" width="50%">
+        <h3>What I Want to Do Later</h3>
+        <p>
+          I aim to join an <b>AI research laboratory</b> working on foundation models for <b>vision and language</b>, pushing forward multimodal reasoning and embodied intelligence.
+        </p>
+        <h3>Recent Experience</h3>
+        <p>
+          Recent research and engineering internships (including <b>ECTA</b> / <b>UQTR</b> and <b>Aurea Technology</b>) focused on 3D imaging, deep learning reconstruction, and optical systems.
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
